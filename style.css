@@ -11,6 +11,7 @@ h1, h2, p, a{
 h1.superhero{
     font-family: math;
     font-size: 2rem;
+    height: 15%;
 }
 h2{
     color: #ebebebf0;
@@ -25,6 +26,9 @@ img.profile {
 .profile-dup {
     border-radius: 2px;
     border: 1px solid #a371d1;
+    position: relative;
+    top: -10px;
+    left: -10px;
 }
 
 a>h2{
